@@ -1,0 +1,6 @@
+opencv-python
+numpy>=1.16.6,<2.0.0
+scipy>=1.5.4
+openvino==2024.3.0
+openvino-dev==2024.3.0
+openvino-telemetry==2024.1.0
